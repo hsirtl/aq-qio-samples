@@ -1,0 +1,26 @@
+{
+    "problem": {
+        "type": "graph-coloring",
+        "data": {
+            "numofcolors": 4,
+            "graph": [
+                { "id": 0,  "node": "Schleswig-Holstein",     "neighbors": [1, 2, 3] },
+                { "id": 1,  "node": "Mecklenburg-Vorpommern", "neighbors": [0, 3, 5] },
+                { "id": 2,  "node": "Hamburg",                "neighbors": [0, 3] },
+                { "id": 3,  "node": "Niedersachsen",          "neighbors": [0, 1, 5, 6, 10, 9, 8, 4, 2] },
+                { "id": 4,  "node": "Bremen",                 "neighbors": [3] },
+                { "id": 5,  "node": "Brandenburg",            "neighbors": [1, 6, 11, 7, 3] },
+                { "id": 6,  "node": "Sachsen-Anhalt",         "neighbors": [5, 11, 10, 3] },
+                { "id": 7,  "node": "Berlin",                 "neighbors": [5] },
+                { "id": 8,  "node": "Nordrhein-Wesfalen",     "neighbors": [3, 9, 12] },
+                { "id": 9,  "node": "Hessen",                 "neighbors": [3, 10, 13, 14, 12, 8] },
+                { "id": 10, "node": "Thüringen",              "neighbors": [6, 11, 13, 9, 3] },
+                { "id": 11, "node": "Sachsen",                "neighbors": [5, 13, 10, 6] },
+                { "id": 12, "node": "Rheinland-Pfalz",        "neighbors": [8, 9, 14, 15] },
+                { "id": 13, "node": "Bayern",                 "neighbors": [10, 11, 14, 9] },
+                { "id": 14, "node": "Baden-Württemberg",      "neighbors": [9, 13, 12] },
+                { "id": 15, "node": "Saarland",               "neighbors": [12] }
+            ]
+        }
+    } 
+}
