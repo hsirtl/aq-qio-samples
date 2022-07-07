@@ -1,0 +1,13 @@
+{
+    "data": [
+    {"edges": ["Chemistry", "History"],"subject":"Sports"},
+    {"edges": ["Maths", "Physics", "Music", "Sports", "History"],"subject":"Chemistry"},
+    {"edges": ["German", "Arts"],"subject":"English"},
+    {"edges": ["Sports", "Chemistry", "Music"],"subject":"History"},
+    {"edges": ["Maths", "Physics", "Chemistry", "History"],"subject":"Music"},
+    {"edges": ["English", "German", "Maths"],"subject":"Arts"},
+    {"edges": ["Maths", "Chemistry", "Music"],"subject":"Physics"},
+    {"edges": ["Physics", "Chemistry", "Music", "Arts"],"subject":"Maths"},
+    {"edges": ["English", "Arts"],"subject":"German"}
+    ]
+}
