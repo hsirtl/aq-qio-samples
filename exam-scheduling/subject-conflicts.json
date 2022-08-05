@@ -1,5 +1,4 @@
-{
-    "data": [
+[
     {"edges": ["Chemistry", "History"],"subject":"Sports"},
     {"edges": ["Maths", "Physics", "Music", "Sports", "History"],"subject":"Chemistry"},
     {"edges": ["German", "Arts"],"subject":"English"},
@@ -9,5 +8,4 @@
     {"edges": ["Maths", "Chemistry", "Music"],"subject":"Physics"},
     {"edges": ["Physics", "Chemistry", "Music", "Arts"],"subject":"Maths"},
     {"edges": ["English", "Arts"],"subject":"German"}
-    ]
-}
+]

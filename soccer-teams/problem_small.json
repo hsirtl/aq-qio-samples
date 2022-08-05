@@ -1,0 +1,16 @@
+{
+    "problem": {
+        "type": "soccer-teams",
+        "data": {
+            "teams": ["Alpha", "Beta"],
+            "players" : [
+                { "id": 1, "name": "Alice",  "strength": 5, "isGoalkeeper": "False" },
+                { "id": 2, "name": "Bob",    "strength": 6, "isGoalkeeper": "True"  },
+                { "id": 3, "name": "Claire", "strength": 8, "isGoalkeeper": "True"  },
+                { "id": 4, "name": "Danny",  "strength": 4, "isGoalkeeper": "False" },
+                { "id": 5, "name": "Eve",    "strength": 6, "isGoalkeeper": "False" },
+                { "id": 6, "name": "Frank",  "strength": 9, "isGoalkeeper": "False" }
+            ]
+        }
+    } 
+}
